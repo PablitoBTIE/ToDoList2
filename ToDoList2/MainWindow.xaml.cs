@@ -86,7 +86,7 @@ namespace ToDoListApp
 
         private void FilterComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            UpdateTasksList();
+            UpdateTasksList(); 
         }
         
     }
